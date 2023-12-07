@@ -1,0 +1,26 @@
+name: Copy Release Archives
+
+on:
+  push:
+    branches:
+      - main  
+jobs:
+  copy_archives:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout Repository
+      uses: actions/checkout@v2
+
+    - name: Copy Release Archives
+      run: |
+        cp -r /home/runner/work/SClocalisationBot/SClocalisationBot/release/* $GITHUB_WORKSPACE
+        cd $GITHUB_WORKSPACE
+
+    - name: Commit and Push Changes
+      run: |
+        git config --local user.email "actions@github.com"
+        git config --local user.name "GitHub Actions"
+        git add .
+        git commit -m "Update release archives"
+        git push
