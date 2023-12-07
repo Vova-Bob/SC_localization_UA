@@ -3,7 +3,7 @@ name: Copy Release Archives
 on:
   push:
     branches:
-      - main  # Змініть на вашу основну гілку, якщо потрібно
+      - main
 
 jobs:
   copy_archives:
@@ -11,7 +11,7 @@ jobs:
 
     steps:
     - name: Checkout Repository
-      uses: actions/checkout@v2
+      uses: actions/checkout@v2  # Оновлена версія дії
 
     - name: Copy Release Archives
       run: |
@@ -25,3 +25,4 @@ jobs:
         git add .
         git commit -m "Update release archives"
         git push
+
