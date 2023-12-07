@@ -10,8 +10,13 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+    - name: Use Node.js 16
+      uses: actions/setup-node@v3
+      with:
+        node-version: 16
+
     - name: Checkout Repository
-      uses: actions/checkout@v2  # Оновлена версія дії
+      uses: actions/checkout@v2
 
     - name: Copy Release Archives
       run: |
@@ -25,4 +30,3 @@ jobs:
         git add .
         git commit -m "Update release archives"
         git push
-
