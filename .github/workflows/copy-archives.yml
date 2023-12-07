@@ -3,7 +3,8 @@ name: Copy Release Archives
 on:
   push:
     branches:
-      - main  
+      - main  # Змініть на вашу основну гілку, якщо потрібно
+
 jobs:
   copy_archives:
     runs-on: ubuntu-latest
@@ -14,7 +15,7 @@ jobs:
 
     - name: Copy Release Archives
       run: |
-        cp -r /home/runner/work/SClocalisationBot/SClocalisationBot/release/* $GITHUB_WORKSPACE
+        cp -r /home/runner/repo/SClocalisationBot/release/* $GITHUB_WORKSPACE
         cd $GITHUB_WORKSPACE
 
     - name: Commit and Push Changes
