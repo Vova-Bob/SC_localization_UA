@@ -13,11 +13,8 @@ jobs:
     - name: Checkout Repository
       uses: actions/checkout@v2
 
-    - name: Change to Repl.it Project Directory
-      run: cd /home/runner/work/SClocalisationBot/
-
-    - name: Copy Release Archives to GitHub Workspace
-      run: cp -r release/* $GITHUB_WORKSPACE
+    - name: Copy Release Archives to GitHub Repository
+      run: cp -r /home/runner/repo/SClocalisationBot/release/* $GITHUB_WORKSPACE/release/
 
     - name: Commit and Push Changes
       run: |
