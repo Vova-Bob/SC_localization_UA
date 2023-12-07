@@ -13,13 +13,15 @@ jobs:
     - name: Checkout Repository
       uses: actions/checkout@v2
 
-    - name: Copy Release Archives
-      run: |
-        cp -r /home/runner/repo/SClocalisationBot/release/* $GITHUB_WORKSPACE
-        cd $GITHUB_WORKSPACE
+    - name: Change to Repl.it Project Directory
+      run: cd /home/runner/work/SClocalisationBot/SClocalisationBot
+
+    - name: Copy Release Archives to GitHub Workspace
+      run: cp -r release/* $GITHUB_WORKSPACE
 
     - name: Commit and Push Changes
       run: |
+        cd $GITHUB_WORKSPACE
         git config --local user.email "actions@github.com"
         git config --local user.name "GitHub Actions"
         git add .
