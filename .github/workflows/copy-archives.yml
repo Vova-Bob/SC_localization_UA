@@ -13,11 +13,11 @@ jobs:
     - name: Checkout Repository
       uses: actions/checkout@v2
 
-    - name: Check Contents of Release Folder
-      run: ls /home/runner/SClocalisationBot/release/
+    - name: Download Release Archives from Repl.it
+      run: npx repl.it download
 
-    - name: Copy Release Archives to GitHub Repository
-      run: cp -r /home/runner/SClocalisationBot/release/* $GITHUB_WORKSPACE/release/
+    - name: Move Release Archives to GitHub Workspace
+      run: mv /home/runner/SClocalisationBot/release/* $GITHUB_WORKSPACE/release/
 
     - name: Commit and Push Changes
       run: |
