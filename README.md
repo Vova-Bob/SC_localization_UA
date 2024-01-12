@@ -1,6 +1,6 @@
 # Переклад гри Star Citizen на українську мову
 [![Crowdin](https://badges.crowdin.net/star-citizen-localization-ua/localized.svg)](https://crowdin.com/project/star-citizen-localization-ua)
-Ця модифікація додає підтримку української мови зроблену учасниками [Ukrainian Community](https://robertsspaceindustries.com/orgs/UKR)
+Ця модифікація додає підтримку української мови зроблену учасниками [UKRAINIAN SPACE FLEET](https://robertsspaceindustries.com/orgs/UKR)
 
 
 ## Встановлення
