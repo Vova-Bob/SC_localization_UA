@@ -12,6 +12,6 @@
 2. Перенесіть теку `data` із завантаженого архіву, до теки `[StarCitizen\LIVE]`
 3. До вашого `user.cfg` додайте два рядки під іншими рядками, якщо такі є:
 
+```plaintext
 g_language = korean_(south_korea)
-
 g_languageAudio=english
