@@ -2,6 +2,7 @@
 
 Підтримка локалізації гри зроблена учасниками [UKRAINIAN SPACE FLEET](https://robertsspaceindustries.com/orgs/UKR)
 
+Проект на стадії полірування
 Повідомити про помилку в перекладі або приєднатись до проєкту можна через наш [Discord](https://discord.gg/TkaN6Yv4VT)
 
 ## Встановлення
