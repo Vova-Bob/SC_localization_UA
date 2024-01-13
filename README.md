@@ -2,12 +2,12 @@
 
 Підтримка локалізації гри зроблена учасниками [UKRAINIAN SPACE FLEET](https://robertsspaceindustries.com/orgs/UKR)
 
-Повідомити про помилки перекладу або приєднатись до проєкту можна через наш [Discord](https://discord.gg/TkaN6Yv4VT)
+Повідомити про помилку в перекладі або приєднатись до проєкту можна через наш [Discord](https://discord.gg/TkaN6Yv4VT)
 
 ## Встановлення
 
 ### Ручний спосіб
-
+Спобіб №1
 1. Завантажте останню версію перекладу з [релізів](https://github.com/Vova-Bob/SC_localization_UA/releases/latest)
 2. Перенесіть теку `Data` із завантаженого архіву, до теки `[StarCitizen\LIVE]`
 3. До вашого `user.cfg` додайте два рядки під іншими рядками, якщо такі є:
@@ -15,3 +15,7 @@
 ```plaintext
 g_language = korean_(south_korea)
 g_languageAudio=english
+```
+Спобіб №2
+1. Завантажте архів перекладу з [релізів](https://github.com/Vova-Bob/SC_localization_UA/releases/latest)
+2. Розпакуйте архів до теки `[StarCitizen\LIVE]`
