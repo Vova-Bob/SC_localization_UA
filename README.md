@@ -7,7 +7,7 @@
 ## Встановлення
 
 ### Ручний спосіб
-Спобіб №1
+Спосіб №1
 1. Завантажте останню версію перекладу з [релізів](https://github.com/Vova-Bob/SC_localization_UA/releases/latest)
 2. Перенесіть теку `Data` із завантаженого архіву, до теки `[StarCitizen\LIVE]`
 3. До вашого `user.cfg` додайте два рядки під іншими рядками, якщо такі є:
@@ -16,6 +16,6 @@
 g_language = korean_(south_korea)
 g_languageAudio=english
 ```
-Спобіб №2
+Спосіб №2
 1. Завантажте архів перекладу з [релізів](https://github.com/Vova-Bob/SC_localization_UA/releases/latest)
 2. Розпакуйте архів до теки `[StarCitizen\LIVE]`
