@@ -32,3 +32,6 @@ g_languageAudio=english
 Спосіб №2
 1. Завантажте архів перекладу з [релізів](https://github.com/Vova-Bob/SC_localization_UA/releases/latest)
 2. Розпакуйте архів до теки `[StarCitizen\LIVE]`
+
+### Автоматично
+через додаток - [SCLocalizationUA](https://github.com/Vova-Bob/SCLoc_App)
