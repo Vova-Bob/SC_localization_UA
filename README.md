@@ -1,6 +1,6 @@
 # Переклад гри Star Citizen Українською 
 [![Latest Release Version](https://img.shields.io/github/release/Vova-Bob/SC_localization_UA?sort=date&label=Версія)](https://github.com/Vova-Bob/SC_localization_UA/releases/latest)
-![Traffic](https://img.shields.io/github/traffic/Vova-Bob/SC_localization_UA)
+[![Завантажень](https://img.shields.io/github/downloads/Vova-Bob/SC_localization_UA/total.svg)](https://github.com/Vova-Bob/SC_localization_UA/releases)
 [![Crowdin](https://badges.crowdin.net/star-citizen-localization-ua/localized.svg)](https://crowdin.com/project/star-citizen-localization-ua)
 
 Підтримка локалізації гри зроблена учасниками [UKRAINIAN SPACE FLEET](https://robertsspaceindustries.com/orgs/UKR)
