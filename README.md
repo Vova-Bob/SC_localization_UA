@@ -8,7 +8,8 @@
 
 Проєкт на стадії полірування
 
-Повідомити про помилку в перекладі або приєднатись до проєкту можна через наш [Discord](https://discord.gg/TkaN6Yv4VT)
+Повідомити про помилку в перекладі або [приєднатися до проєкту](https://crowdin.com/project/star-citizen-localization-ua/invite?h=52d08c89fb4c57d0ddf54e27d0bb04651965464)
+ можна через наш [Discord](https://discord.gg/TkaN6Yv4VT)
 
 ## Встановлення
 
