@@ -7,7 +7,9 @@
 
 Проєкт на стадії полірування
 
-Повідомити про помилку в перекладі або приєднатися до проєкту >>> [![](https://dcbadge.vercel.app/api/server/TkaN6Yv4VT)](https://discord.com/invite/TkaN6Yv4VT)
+Повідомити про помилку в перекладі або приєднатися до проєкту >>> 
+
+[![](https://dcbadge.vercel.app/api/server/TkaN6Yv4VT)](https://discord.com/invite/TkaN6Yv4VT)
 
 ## Встановлення
 
