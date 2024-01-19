@@ -40,3 +40,4 @@ g_languageAudio=english
 
 ### Автоматично
 через додаток - [SCLocalizationUA](https://github.com/Vova-Bob/SCLoc_App)
+![SClocApp](https://github.com/Vova-Bob/SCLoc_App/blob/main/img/1.png)
