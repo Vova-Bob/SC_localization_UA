@@ -43,3 +43,4 @@ g_languageAudio=english
 
 
 ![SClocApp](https://github.com/Vova-Bob/SCLoc_App/blob/main/img/1.png)
+![SClocApp](https://github.com/Vova-Bob/SCLoc_App/blob/main/img/5.png)
