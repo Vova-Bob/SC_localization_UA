@@ -2,6 +2,7 @@
 [![Остання версія випуску](https://img.shields.io/github/release/Vova-Bob/SC_localization_UA?include_prereleases&sort=date&label=Остання%20версія)](https://github.com/Vova-Bob/SC_localization_UA/releases/latest)
 [![Crowdin](https://badges.crowdin.net/star-citizen-localization-ua/localized.svg)](https://crowdin.com/project/star-citizen-localization-ua)
 [![АВТООНОВЛЕННЯ](https://github.com/Vova-Bob/SCLocBOT/actions/workflows/run_script_export.yml/badge.svg?branch=main)](https://github.com/Vova-Bob/SC_localization_UA/commit/main)
+![GitHub License](https://img.shields.io/github/license/Vova-Bob/SC_Localization_UA)
 
 Підтримка локалізації гри зроблена учасниками [UKRAINIAN SPACE FLEET](https://robertsspaceindustries.com/orgs/UKR)
 
