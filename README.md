@@ -39,8 +39,9 @@ g_languageAudio=english
 2. Розпакуйте архів до теки `[StarCitizen\LIVE]`
 
 ### Автоматично
-через додаток - [SCLocalizationUA](https://github.com/Vova-Bob/SCLoc_App)
-
+через додаток - [SCLocalizationUA](https://github.com/Vova-Bob/SCLoc_App) 
+[![Latest Release Version](https://img.shields.io/github/release/Vova-Bob/SCLoc_App?sort=date&label=Версія)](https://github.com/Vova-Bob/SCLoc_App/releases/latest)
 
 ![SClocApp](https://github.com/Vova-Bob/SCLoc_App/blob/main/img/1.png)
 ![SClocApp](https://github.com/Vova-Bob/SCLoc_App/blob/main/img/5.png)
+
