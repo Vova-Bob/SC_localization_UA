@@ -4,6 +4,8 @@
 [![АВТООНОВЛЕННЯ](https://github.com/Vova-Bob/SCLocBOT/actions/workflows/run_script_export.yml/badge.svg?branch=main)](https://github.com/Vova-Bob/SC_localization_UA/commit/main)
 [![Endpoint Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2FVova-Bob%2FSC_localization_UA.json&style=flat&label=%D0%97%D0%B0%D0%B2%D0%B0%D0%BD%D1%82%D0%B0%D0%B6%D0%B5%D0%BD%D1%8C&labelColor=%23081822&color=red)](https://github.com/Vova-Bob/SC_localization_UA)
 [![GitHub License](https://img.shields.io/github/license/Vova-Bob/SC_Localization_UA)](https://github.com/Vova-Bob/SC_localization_UA/blob/main/LICENSE.txt)
+[![Website](https://img.shields.io/website?url=https%3A%2F%2Fusf.42web.io%2F&down_message=SITE&style=flat&label=USF&labelColor=blue&color=yellow)](https://usf.42web.io/)
+
 
 ![SClocApp](https://github.com/Vova-Bob/SClocApp/blob/master/img/sclocua.jpg)
 
