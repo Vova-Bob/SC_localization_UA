@@ -6,10 +6,10 @@
 [![GitHub License](https://img.shields.io/github/license/Vova-Bob/SC_Localization_UA)](https://github.com/Vova-Bob/SC_localization_UA/blob/main/LICENSE.txt)
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Fusf.42web.io%2F&down_message=SITE&style=flat&label=USF&labelColor=blue&color=yellow)](https://usf.42web.io/)
 
-Цей переклад став можливим завдяки спільним зусиллям Корпорації "УКРАЇНСЬКИЙ КОСМІЧНИЙ ФЛОТ" 
+Цей переклад став можливим завдяки спільним зусиллям Корпорації "UKRAINIAN SPACE FLEET" 
 та перекладачів групи SlyF0X-UA з UACOM,
 частина перекладу організацій була об'єднана та асимільована для прискорення та подальшого розвитку,
-Учасники Корпорації "УКРАЇНСЬКИЙ КОСМІЧНИЙ ФЛОТ" продовжили переклад, 
+Учасники Корпорації "UKRAINIAN SPACE FLEET" продовжили переклад, 
 внесли багато змін та виправлень для завершення роботи над перекладом.
 
 
