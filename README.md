@@ -6,7 +6,21 @@
 [![GitHub License](https://img.shields.io/github/license/Vova-Bob/SC_Localization_UA)](https://github.com/Vova-Bob/SC_localization_UA/blob/main/LICENSE.txt)
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Fusf.42web.io%2F&down_message=SITE&style=flat&label=USF&labelColor=blue&color=yellow)](https://usf.42web.io/)
 
+Цей переклад став можливим завдяки спільним зусиллям Корпорації "УКРАЇНСЬКИЙ КОСМІЧНИЙ ФЛОТ" 
+та перекладачів групи SlyF0X-UA з UACOM,
+частина перекладу організацій була об'єднана та асимільована для прискорення та подальшого розвитку,
+Учасники Корпорації "УКРАЇНСЬКИЙ КОСМІЧНИЙ ФЛОТ" продовжили переклад, 
+внесли багато змін та виправлень для завершення роботи над перекладом.
 
+
+Дякуємо всім, хто взяв участь у перекладі! Корпорації, які беруть участь у перекладі:
+[UKRAINIAN SPACE FLEET](https://robertsspaceindustries.com/orgs/UKR)
+[UACOM](https://robertsspaceindustries.com/orgs/UACOM)
+[FREE SPACE PROJECT](https://robertsspaceindustries.com/orgs/FSPROJECT)
+[CODEGAMING](https://robertsspaceindustries.com/orgs/CODEGAMING)
+[SQUAD UKRAINE](https://robertsspaceindustries.com/orgs/UKRAINESQ)
+[TRIDENT](https://robertsspaceindustries.com/orgs/UKRAINE)
+[UKRAІNIAN DEMOCRATIC CORP](https://robertsspaceindustries.com/orgs/UKRAINIANS)
 ![SClocApp](https://github.com/Vova-Bob/SClocApp/blob/master/img/sclocua.jpg)
 
 Підтримка локалізації гри зроблена учасниками [UKRAINIAN SPACE FLEET](https://robertsspaceindustries.com/orgs/UKR)
