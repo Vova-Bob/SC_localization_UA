@@ -14,10 +14,12 @@
 
 
 Дякуємо всім, хто взяв участь у перекладі! Корпорації, які беруть участь у перекладі:
+
 [UKRAINIAN SPACE FLEET](https://robertsspaceindustries.com/orgs/UKR)
 [UACOM](https://robertsspaceindustries.com/orgs/UACOM)
 [FREE SPACE PROJECT](https://robertsspaceindustries.com/orgs/FSPROJECT)
 [CODEGAMING](https://robertsspaceindustries.com/orgs/CODEGAMING)
+
 [SQUAD UKRAINE](https://robertsspaceindustries.com/orgs/UKRAINESQ)
 [TRIDENT](https://robertsspaceindustries.com/orgs/UKRAINE)
 [UKRAІNIAN DEMOCRATIC CORP](https://robertsspaceindustries.com/orgs/UKRAINIANS)
