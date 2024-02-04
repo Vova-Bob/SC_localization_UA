@@ -3,8 +3,17 @@
 [![Crowdin](https://badges.crowdin.net/star-citizen-localization-ua/localized.svg)](https://crowdin.com/project/star-citizen-localization-ua)
 [![АВТООНОВЛЕННЯ](https://github.com/Vova-Bob/SCLocBOT/actions/workflows/run_script_export.yml/badge.svg?branch=main)](https://github.com/Vova-Bob/SC_localization_UA/commit/main)
 [![Endpoint Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2FVova-Bob%2FSC_localization_UA.json&style=flat&label=%D0%97%D0%B0%D0%B2%D0%B0%D0%BD%D1%82%D0%B0%D0%B6%D0%B5%D0%BD%D1%8C&labelColor=%23081822&color=red)](https://github.com/Vova-Bob/SC_localization_UA)
-[![GitHub License](https://img.shields.io/github/license/Vova-Bob/SC_Localization_UA)](https://github.com/Vova-Bob/SC_localization_UA/blob/main/LICENSE.md)
+[![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Fusf.42web.io%2F&down_message=SITE&style=flat&label=USF&labelColor=blue&color=yellow)](https://usf.42web.io/)
+
+This work is licensed under a
+[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
+
+[![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
+
+[cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
+[cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
+[cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
 
 Цей переклад став можливим завдяки спільним зусиллям Корпорації "UKRAINIAN SPACE FLEET" 
 та перекладачів групи SlyF0X-UA з UACOM,
