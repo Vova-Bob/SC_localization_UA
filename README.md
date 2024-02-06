@@ -73,5 +73,5 @@ g_languageAudio=english
 через додаток - [SCLocalizationUA](https://github.com/Vova-Bob/SCLoc_App) 
 [![Latest Release Version](https://img.shields.io/github/release/Vova-Bob/SCLoc_App?sort=date&label=Версія)](https://github.com/Vova-Bob/SCLoc_App/releases/latest)
 
-![SClocApp](https://github.com/Vova-Bob/SCLoc_App/blob/main/img/5.png)
+![SClocApp](https://github.com/Vova-Bob/SCLoc_App/blob/main/img/6.png)
 
