@@ -31,7 +31,7 @@
 [![Static Badge](https://img.shields.io/badge/SQUAD%20UKRAINE-%20?style=plastic&label=CORP&labelColor=%23196ea7&color=%23fbe21b)](https://robertsspaceindustries.com/orgs/UKRAINESQ)
 [![Static Badge](https://img.shields.io/badge/TRIDENT-%20?style=plastic&label=CORP&labelColor=%23196ea7&color=%23fbe21b)](https://robertsspaceindustries.com/orgs/UKRAINE)
 [![Static Badge](https://img.shields.io/badge/UKRA%D0%86NIAN%20DEMOCRATIC%20CORP-%20?style=plastic&label=CORP&labelColor=%23196ea7&color=%23fbe21b)](https://robertsspaceindustries.com/orgs/UKRAINIANS)
-![SClocApp](https://github.com/Vova-Bob/SClocApp/blob/master/img/sclocua.jpg)
+![SClocApp](https://github.com/Vova-Bob/SCLocAppUA/blob/master/img/sclocua.jpg)
 
 Підтримка локалізації гри зроблена учасниками [UKRAINIAN SPACE FLEET](https://robertsspaceindustries.com/orgs/UKR)
 
