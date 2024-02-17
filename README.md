@@ -2,7 +2,7 @@
 [![Остання версія випуску](https://img.shields.io/github/release/Vova-Bob/SC_localization_UA?include_prereleases&sort=date&label=Остання%20версія)](https://github.com/Vova-Bob/SC_localization_UA/releases/latest)
 [![Crowdin](https://badges.crowdin.net/star-citizen-localization-ua/localized.svg)](https://crowdin.com/project/star-citizen-localization-ua)
 [![АВТООНОВЛЕННЯ](https://github.com/Vova-Bob/SCLocBOT/actions/workflows/run_script_export.yml/badge.svg?branch=main)](https://github.com/Vova-Bob/SC_localization_UA/commit/main)
-[![Endpoint Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2FVova-Bob%2FSC_localization_UA.json&style=flat&label=%D0%97%D0%B0%D0%B2%D0%B0%D0%BD%D1%82%D0%B0%D0%B6%D0%B5%D0%BD%D1%8C&labelColor=%23081822&color=red)](https://github.com/Vova-Bob/SC_localization_UA)
+[![Завантажень](https://api.visitorbadge.io/api/combined?path=Vova-Bob%2FSC_localization_UA&label=%D0%97%D0%B0%D0%B2%D0%B0%D0%BD%D1%82%D0%B0%D0%B6%D0%B5%D0%BD%D1%8C&countColor=%23697689&style=plastic&labelStyle=lower)](https://github.com/Vova-Bob/SC_localization_UA)
 [![License](https://img.shields.io/static/v1?label=license&message=CC-BY-NC-SA-4.0&color=green)](https://github.com/Vova-Bob/SC_localization_UA/blob/main/LICENSE)
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Fusf.42web.io%2F&down_message=SITE&style=flat&label=USF&labelColor=blue&color=yellow)](https://usf.42web.io/)
 
