@@ -17,7 +17,7 @@
 [cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
 [cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
 
-Дякуємо всім, хто взяв участь у перекладі! Корпорації, які беруть участь:
+Дякуємо всім, хто взяв участь у перекладі!:
 
 [![Static Badge](https://img.shields.io/badge/UKRAINIAN%20SPACE%20FLEET-%20?style=plastic&label=CORP&labelColor=%23196ea7&color=%23fbe21b)](https://robertsspaceindustries.com/orgs/UKR)
 [![Static Badge](https://img.shields.io/badge/UACOM-%20?style=plastic&label=CORP&labelColor=%23196ea7&color=%23fbe21b)](https://robertsspaceindustries.com/orgs/UACOM)
