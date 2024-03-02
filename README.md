@@ -17,14 +17,7 @@
 [cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
 [cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
 
-Цей переклад став можливим завдяки спільним зусиллям Корпорації "UKRAINIAN SPACE FLEET" 
-та перекладачів групи SlyF0X-UA з UACOM,
-частина перекладу організацій була об'єднана та асимільована для прискорення та подальшого розвитку,
-Учасники Корпорації "UKRAINIAN SPACE FLEET" продовжили переклад, 
-внесли багато змін та виправлень для завершення роботи над перекладом.
-
-
-Дякуємо всім, хто взяв участь у перекладі! Корпорації, які беруть участь у перекладі:
+Дякуємо всім, хто взяв участь у перекладі! Корпорації, які беруть участь:
 
 [![Static Badge](https://img.shields.io/badge/UKRAINIAN%20SPACE%20FLEET-%20?style=plastic&label=CORP&labelColor=%23196ea7&color=%23fbe21b)](https://robertsspaceindustries.com/orgs/UKR)
 [![Static Badge](https://img.shields.io/badge/UACOM-%20?style=plastic&label=CORP&labelColor=%23196ea7&color=%23fbe21b)](https://robertsspaceindustries.com/orgs/UACOM)
