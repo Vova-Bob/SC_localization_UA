@@ -11,8 +11,6 @@
 [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
-[![Website](https://img.shields.io/website?url=https%3A%2F%2Fsend.monobank.ua%2Fjar%2F44HXkQkorg&up_message=%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82&style=for-the-badge&label=%D0%9F%D1%96%D0%B4%D1%82%D1%80%D0%B8%D0%BC%D0%B0%D1%82%D0%B8)
-](https://send.monobank.ua/jar/44HXkQkorg)
 [![bug-report](https://img.shields.io/badge/bug-report-blue?style=for-the-badge)](https://shorturl.at/dkwN7)
 
 
