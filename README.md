@@ -34,13 +34,13 @@
 
 Проєкт на стадії полірування
 
-Повідомити про помилку в перекладі або приєднатися до проєкту >>> [![](https://dcbadge.vercel.app/api/server/TkaN6Yv4VT?style=flat&theme=clean&compact=true)](https://discord.com/invite/TkaN6Yv4VT)
+Повідомити про помилку в перекладі або приєднатися до проєкту >>> [![](https://dcbadge.limes.pink/api/server/TkaN6Yv4VT?style=flat&theme=clean&compact=true)](https://discord.com/invite/TkaN6Yv4VT)
 
 ## Встановлення
 
 ### Ручний спосіб
 Спосіб №1
-1. Завантажте останню версію перекладу з [![GitHub Release](https://img.shields.io/github/v/release/Vova-Bob/SC_localization_UA?display_name=release&label=3.22.1)](https://github.com/Vova-Bob/SC_localization_UA/releases/latest)
+1. Завантажте останню версію перекладу з [![GitHub Release](https://img.shields.io/github/v/release/Vova-Bob/SC_localization_UA?display_name=release&)](https://github.com/Vova-Bob/SC_localization_UA/releases/latest)
 2. Перенесіть теку `Data` із завантаженого архіву, до теки `[StarCitizen\LIVE]`
 3. До вашого `user.cfg` додайте два рядки під іншими рядками, якщо такі є:
 
