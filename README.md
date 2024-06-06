@@ -12,7 +12,7 @@
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
 [![bug-report](https://img.shields.io/badge/bug-report-blue?style=for-the-badge)](https://shorturl.at/dkwN7)
 
-
+Українізатор [![Остання версія випуску](https://img.shields.io/github/release/Vova-Bob/SCLoc_App?include_prereleases&sort=date&label=SCLOCAPP)](https://github.com/Vova-Bob/SCLoc_App/releases/latest)
 
 [cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
 [cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
@@ -66,9 +66,7 @@ g_languageAudio=english
 2. Розпакуйте архів до теки `[StarCitizen\LIVE]`
 
 ### Автоматично
-через додаток - [SCLocalizationUA](https://github.com/Vova-Bob/SCLoc_App)
- 
-[![Остання версія випуску](https://img.shields.io/github/release/Vova-Bob/SCLoc_App?include_prereleases&sort=date&label=Остання%20версія)](https://github.com/Vova-Bob/SCLoc_App/releases/latest)
+через додаток - [![Остання версія випуску](https://img.shields.io/github/release/Vova-Bob/SCLoc_App?include_prereleases&sort=date&label=SCLOCAPP)](https://github.com/Vova-Bob/SCLoc_App/releases/latest)
 
 ![SClocApp](https://github.com/Vova-Bob/SCLoc_App/blob/main/img/8.png)
 
