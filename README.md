@@ -1,4 +1,4 @@
-# Українська локалізація гри Star Citizen1
+# Українська локалізація гри Star Citizen
 [![GitHub Release](https://img.shields.io/github/v/release/Vova-Bob/SC_localization_UA?display_name=release&label=3.24)](https://github.com/Vova-Bob/SC_localization_UA/releases/latest)
 [![Crowdin](https://badges.crowdin.net/star-citizen-localization-ua/localized.svg)](https://shorturl.at/dopMW)
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Fusf.42web.io%2F&down_message=3.24&style=flat&label=SC&labelColor=blue&color=blue)](https://robertsspaceindustries.com/spectrum/community/SC/forum/50172/thread/localization-ukrainian/404478)
