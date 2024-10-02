@@ -6,6 +6,7 @@
 [![Visitors](https://api.visitorbadge.io/api/combined?path=Vova-Bob%2FSC_localization_UA&countColor=%23697689&style=plastic&labelStyle=lower)](https://visitorbadge.io/status?path=Vova-Bob%2FSC_localization_UA)
 [![License](https://img.shields.io/static/v1?label=license&message=CC-BY-NC-SA-4.0&color=green)](https://github.com/Vova-Bob/SC_localization_UA/blob/main/LICENSE)
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Fusf.42web.io%2F&down_message=SITE&style=flat&label=USF&labelColor=blue&color=yellow)](https://usf.42web.io/)
+[![Website](https://img.shields.io/website?url=https%3A%2F%2Fusf.42web.io%2F&down_message=SITE&style=flat&label=SCLOC&labelColor=blue&color=yellow)](https://scloc,pp.ua/)
 
 [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
 
