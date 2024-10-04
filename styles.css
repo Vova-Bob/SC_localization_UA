@@ -3,14 +3,14 @@ body {
     font-family: 'Roboto', sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #f0f4f8;
-    color: #333;
+    background-color: #0d1117; /* Фон сторінки */
+    color: #f0f6fc; /* Текст */
 }
 
 /* Заголовок */
 header {
-    background-color: #007bff;
-    color: white;
+    background-color: #010409; /* Шапка */
+    color: #f0f6fc; /* Текст шапки */
     padding: 20px;
     text-align: center;
 }
@@ -25,7 +25,7 @@ main {
 }
 
 h1, h2, h3 {
-    color: #007bff;
+    color: #f0f6fc; /* Колір заголовків */
 }
 
 /* Секція корпорацій */
@@ -33,15 +33,15 @@ h1, h2, h3 {
     display: inline-block;
     margin: 5px;
     padding: 10px 15px;
-    background-color: #e2e6ea;
-    color: #007bff;
+    background-color: #e2e6ea; /* Колір кнопок */
+    color: #0d1117; /* Колір тексту кнопок */
     text-decoration: none;
     border-radius: 5px;
 }
 
 .corp-links a:hover {
-    background-color: #007bff;
-    color: white;
+    background-color: #f0f6fc; /* Колір кнопок при наведенні */
+    color: #0d1117; /* Колір тексту кнопок при наведенні */
 }
 
 /* Нижній колонтитул */
@@ -49,6 +49,6 @@ footer {
     text-align: center;
     margin-top: 20px;
     padding: 10px;
-    background-color: #007bff;
-    color: white;
+    background-color: #010409; /* Підвал */
+    color: #f0f6fc; /* Текст підвалу */
 }
