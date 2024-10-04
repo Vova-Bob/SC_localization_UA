@@ -1,0 +1,54 @@
+/* Основні стилі */
+body {
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f4f8;
+    color: #333;
+}
+
+/* Заголовок */
+header {
+    background-color: #007bff;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+.badges img {
+    margin: 5px;
+}
+
+/* Основний контент */
+main {
+    padding: 20px;
+}
+
+h1, h2, h3 {
+    color: #007bff;
+}
+
+/* Секція корпорацій */
+.corp-links a {
+    display: inline-block;
+    margin: 5px;
+    padding: 10px 15px;
+    background-color: #e2e6ea;
+    color: #007bff;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.corp-links a:hover {
+    background-color: #007bff;
+    color: white;
+}
+
+/* Нижній колонтитул */
+footer {
+    text-align: center;
+    margin-top: 20px;
+    padding: 10px;
+    background-color: #007bff;
+    color: white;
+}
