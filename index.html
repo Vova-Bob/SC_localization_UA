@@ -10,7 +10,7 @@
             background-color: #0d1117; /* Фон сторінки */
             color: #f0f6fc; /* Колір тексту */
             font-family: Arial, sans-serif;
-            text-align: center; /* Вирівнювання тексту по центру */
+            text-align: center; /* Вирівнювання заголовків по центру */
         }
         header, footer {
             background-color: #010409; /* Шапка та підвал */
@@ -26,6 +26,12 @@
         img {
             max-width: 100%; /* Максимальна ширина зображень */
             height: auto; /* Автоматична висота */
+        }
+        .content {
+            max-width: 800px; /* Максимальна ширина текстового блоку */
+            margin: 0 auto; /* Центрування блоку */
+            text-align: left; /* Вирівнювання тексту по лівому краю */
+            padding: 20px; /* Внутрішні відступи */
         }
     </style>
 </head>
@@ -61,7 +67,7 @@
     </p>
 </header>
 
-<main>
+<main class="content">
     <p>
         Дякуємо всім, хто взяв участь у перекладі!
     </p>
@@ -107,15 +113,11 @@
     <h4>Спосіб №1</h4>
     <ol>
         <li>Завантажте останню версію перекладу з 
-            <a href="https://github.com/Vova-Bob/SC_localization_UA/releases/latest">
-                <img src="https://img.shields.io/github/v/release/Vova-Bob/SC_localization_UA?display_name=release&label=" alt="GitHub Release">
-            </a>
+            <a href="https://github.com/Vova-Bob/SC_localization_UA/releases/latest">релізу</a>
         </li>
-        <li>Перенесіть теку `Data` із завантаженого архіву, до теки `[StarCitizen\LIVE]`</li>
-        <li>До вашого `user.cfg` додайте два рядки під іншими рядками, якщо такі є:
+        <li>Перейменуйте файл
             <pre>
-g_language = korean_(south_korea)
-g_language = russian_(russia)
+                russian_(russia)
             </pre>
         </li>
         <li>Запустіть гру!</li>
