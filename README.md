@@ -36,11 +36,11 @@
 
 Проєкт на стадії полірування
 
-Повідомити про помилку в перекладі або приєднатися до проєкту >>> [![](https://dcbadge.limes.pink/api/server/TkaN6Yv4VT?style=flat&theme=clean&compact=true)](https://discord.com/invite/TkaN6Yv4VT)
+Повідомити про помилку в перекладі або приєднатися до проєкту >>> [![bug-report](https://img.shields.io/badge/bug-report-blue?style=for-the-badge)](https://shorturl.at/dkwN7)
 
 ## Встановлення
 
-### Ручний спосіб
+### Ручний спосіб. Актуальні стабільні збірки (рекомендується для LIVE збірки)
 Спосіб №1
 1. Завантажте останню версію перекладу з [![GitHub Release](https://img.shields.io/github/v/release/Vova-Bob/SC_localization_UA?display_name=release&)](https://github.com/Vova-Bob/SC_localization_UA/releases/latest)
 2. Перенесіть теку `Data` із завантаженого архіву, до теки `[StarCitizen\LIVE]`
@@ -67,7 +67,7 @@ g_languageAudio=english
 1. Завантажте архів перекладу з [релізів](https://github.com/Vova-Bob/SC_localization_UA/releases/latest)
 2. Розпакуйте архів до теки `[StarCitizen\LIVE]`
 
-### Автоматично
+### Автоматично. Містить найновіші правки пререлізів (рекомендується для PTU та EPTU збірок)
 через додаток - [SCLocalizationUA](https://github.com/Vova-Bob/SCLoc_App)
  
 [![Остання версія випуску](https://img.shields.io/github/release/Vova-Bob/SCLoc_App?include_prereleases&sort=date&label=Остання%20версія)](https://github.com/Vova-Bob/SCLoc_App/releases/latest)
