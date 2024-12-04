@@ -1,7 +1,7 @@
 # Українська локалізація гри Star Citizen
 [![GitHub Release](https://img.shields.io/github/v/release/Vova-Bob/SC_localization_UA?display_name=release&label=3.24.2)](https://github.com/Vova-Bob/SC_localization_UA/releases/latest)
 [![Crowdin](https://badges.crowdin.net/star-citizen-localization-ua/localized.svg)](https://shorturl.at/dopMW)
-[![Website](https://img.shields.io/website?url=https%3A%2F%2Fusf.42web.io%2F&down_message=3.24&style=flat&label=SC&labelColor=blue&color=blue)](https://robertsspaceindustries.com/spectrum/community/SC/forum/50172/thread/localization-ukrainian/404478)
+[![Website](https://img.shields.io/website?url=https%3A%2F%2Fusf.42web.io%2F&down_message=4.0&style=flat&label=SC&labelColor=blue&color=blue)](https://robertsspaceindustries.com/spectrum/community/SC/forum/50172/thread/localization-ukrainian/404478)
 [![Автооновлення](https://img.shields.io/github/last-commit/Vova-Bob/SC_localization_UA?display_timestamp=author&style=plastic&logo=convertio&logoColor=%2393FF9E&label=%D0%90%D0%B2%D1%82%D0%BE%D0%BE%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%BD%D1%8F&cacheSeconds=300)](https://github.com/Vova-Bob/SC_localization_UA/commit/main)
 [![Visitors](https://api.visitorbadge.io/api/combined?path=Vova-Bob%2FSC_localization_UA&countColor=%23697689&style=plastic&labelStyle=lower)](https://visitorbadge.io/status?path=Vova-Bob%2FSC_localization_UA)
 [![License](https://img.shields.io/static/v1?label=license&message=CC-BY-NC-SA-4.0&color=green)](https://github.com/Vova-Bob/SC_localization_UA/blob/main/LICENSE)
