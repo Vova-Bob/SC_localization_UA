@@ -12,29 +12,19 @@
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
 [![bug-report](https://img.shields.io/badge/bug-report-blue?style=for-the-badge)](https://shorturl.at/dkwN7)
-[![Website](https://img.shields.io/website?url=https%3A%2F%2Fsend.monobank.ua%2Fjar%2F44HXkQkorg&up_message=%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82&style=for-the-badge&label=%D0%9F%D1%96%D0%B4%D1%82%D1%80%D0%B8%D0%BC%D0%B0%D1%82%D0%B8)
-](https://send.monobank.ua/jar/44HXkQkorg)
 
+**Підтримка проекту локалізації Star Citizen — кожна чашка кави наближає нас до завершення перекладу!**
+
+[![Website](https://img.shields.io/website?url=https%3A%2F%2Fsend.monobank.ua%2Fjar%2F44HXkQkorg&up_message=%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82&style=for-the-badge&label=%D0%9F%D1%96%D0%B4%D1%82%D1%80%D0%B8%D0%BC%D0%B0%D1%82%D0%B8)
+](https://send.monobank.ua/jar/44HXkQkorg) 
 
 [cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
 [cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
 [cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
 
-Дякуємо всім, хто взяв участь у перекладі!:
-
-[![Static Badge](https://img.shields.io/badge/UKRAINIAN%20SPACE%20FLEET-%20?style=plastic&label=CORP&labelColor=%23196ea7&color=%23fbe21b)](https://robertsspaceindustries.com/orgs/UKR)
-[![Static Badge](https://img.shields.io/badge/UACOM-%20?style=plastic&label=CORP&labelColor=%23196ea7&color=%23fbe21b)](https://robertsspaceindustries.com/orgs/UACOM)
-[![Static Badge](https://img.shields.io/badge/FREE%20SPACE%20PROJECT-%20?style=plastic&label=CORP&labelColor=%23196ea7&color=%23fbe21b)](https://robertsspaceindustries.com/orgs/FSPROJECT)
-[![Static Badge](https://img.shields.io/badge/CODEGAMING-%20?style=plastic&label=CORP&labelColor=%23196ea7&color=%23fbe21b)](https://robertsspaceindustries.com/orgs/CODEGAMING)
-
-[![Static Badge](https://img.shields.io/badge/SQUAD%20UKRAINE-%20?style=plastic&label=CORP&labelColor=%23196ea7&color=%23fbe21b)](https://robertsspaceindustries.com/orgs/UKRAINESQ)
-[![Static Badge](https://img.shields.io/badge/TRIDENT-%20?style=plastic&label=CORP&labelColor=%23196ea7&color=%23fbe21b)](https://robertsspaceindustries.com/orgs/UKRAINE)
-[![Static Badge](https://img.shields.io/badge/UKRA%D0%86NIAN%20DEMOCRATIC%20CORP-%20?style=plastic&label=CORP&labelColor=%23196ea7&color=%23fbe21b)](https://robertsspaceindustries.com/orgs/UKRAINIANS)
 ![SClocApp](https://github.com/Vova-Bob/SCLoc_App/blob/main/img/sclocua.jpg)
 
 Підтримка локалізації гри зроблена учасниками [UKRAINIAN SPACE FLEET](https://robertsspaceindustries.com/orgs/UKR)
-
-Проєкт на стадії полірування
 
 Повідомити про помилку в перекладі або приєднатися до проєкту >>> [![bug-report](https://img.shields.io/badge/bug-report-blue?style=for-the-badge)](https://shorturl.at/dkwN7)
 
@@ -73,4 +63,15 @@ g_languageAudio=english
 [![Остання версія випуску](https://img.shields.io/github/release/Vova-Bob/SCLoc_App?include_prereleases&sort=date&label=Остання%20версія)](https://github.com/Vova-Bob/SCLoc_App/releases/latest)
 
 ![SClocApp](https://github.com/Vova-Bob/SCLoc_App/blob/main/img/8.png)
+
+Дякуємо всім, хто взяв участь у перекладі!:
+
+[![Static Badge](https://img.shields.io/badge/UKRAINIAN%20SPACE%20FLEET-%20?style=plastic&label=CORP&labelColor=%23196ea7&color=%23fbe21b)](https://robertsspaceindustries.com/orgs/UKR)
+[![Static Badge](https://img.shields.io/badge/UACOM-%20?style=plastic&label=CORP&labelColor=%23196ea7&color=%23fbe21b)](https://robertsspaceindustries.com/orgs/UACOM)
+[![Static Badge](https://img.shields.io/badge/FREE%20SPACE%20PROJECT-%20?style=plastic&label=CORP&labelColor=%23196ea7&color=%23fbe21b)](https://robertsspaceindustries.com/orgs/FSPROJECT)
+[![Static Badge](https://img.shields.io/badge/CODEGAMING-%20?style=plastic&label=CORP&labelColor=%23196ea7&color=%23fbe21b)](https://robertsspaceindustries.com/orgs/CODEGAMING)
+
+[![Static Badge](https://img.shields.io/badge/SQUAD%20UKRAINE-%20?style=plastic&label=CORP&labelColor=%23196ea7&color=%23fbe21b)](https://robertsspaceindustries.com/orgs/UKRAINESQ)
+[![Static Badge](https://img.shields.io/badge/TRIDENT-%20?style=plastic&label=CORP&labelColor=%23196ea7&color=%23fbe21b)](https://robertsspaceindustries.com/orgs/UKRAINE)
+[![Static Badge](https://img.shields.io/badge/UKRA%D0%86NIAN%20DEMOCRATIC%20CORP-%20?style=plastic&label=CORP&labelColor=%23196ea7&color=%23fbe21b)](https://robertsspaceindustries.com/orgs/UKRAINIANS)
 
