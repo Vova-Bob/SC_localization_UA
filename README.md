@@ -68,11 +68,5 @@ g_languageAudio=english
 Дякуємо всім, хто взяв участь у перекладі!:
 
 [![Static Badge](https://img.shields.io/badge/UKRAINIAN%20SPACE%20FLEET-%20?style=plastic&label=CORP&labelColor=%23196ea7&color=%23fbe21b)](https://robertsspaceindustries.com/orgs/UKR)
-[![Static Badge](https://img.shields.io/badge/UACOM-%20?style=plastic&label=CORP&labelColor=%23196ea7&color=%23fbe21b)](https://robertsspaceindustries.com/orgs/UACOM)
 [![Static Badge](https://img.shields.io/badge/FREE%20SPACE%20PROJECT-%20?style=plastic&label=CORP&labelColor=%23196ea7&color=%23fbe21b)](https://robertsspaceindustries.com/orgs/FSPROJECT)
-[![Static Badge](https://img.shields.io/badge/CODEGAMING-%20?style=plastic&label=CORP&labelColor=%23196ea7&color=%23fbe21b)](https://robertsspaceindustries.com/orgs/CODEGAMING)
-
-[![Static Badge](https://img.shields.io/badge/SQUAD%20UKRAINE-%20?style=plastic&label=CORP&labelColor=%23196ea7&color=%23fbe21b)](https://robertsspaceindustries.com/orgs/UKRAINESQ)
-[![Static Badge](https://img.shields.io/badge/TRIDENT-%20?style=plastic&label=CORP&labelColor=%23196ea7&color=%23fbe21b)](https://robertsspaceindustries.com/orgs/UKRAINE)
-[![Static Badge](https://img.shields.io/badge/UKRA%D0%86NIAN%20DEMOCRATIC%20CORP-%20?style=plastic&label=CORP&labelColor=%23196ea7&color=%23fbe21b)](https://robertsspaceindustries.com/orgs/UKRAINIANS)
 
