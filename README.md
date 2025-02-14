@@ -1,6 +1,6 @@
 # Українська локалізація гри Star Citizen
-[![GitHub Release](https://img.shields.io/github/v/release/Vova-Bob/SC_localization_UA?display_name=release&label=4.0.1)](https://github.com/Vova-Bob/SC_localization_UA/releases/latest)
-[![GitHub Pre-Release](https://img.shields.io/github/v/release/Vova-Bob/SC_localization_UA?include_prereleases&display_name=tag&label=4.0.2)](https://github.com/Vova-Bob/SC_localization_UA/releases)
+[![GitHub Release](https://img.shields.io/github/v/release/Vova-Bob/SC_localization_UA?display_name=release&label=LIVE)](https://github.com/Vova-Bob/SC_localization_UA/releases/latest)
+[![GitHub Pre-Release](https://img.shields.io/github/v/release/Vova-Bob/SC_localization_UA?include_prereleases&display_name=tag&label=PTU)](https://github.com/Vova-Bob/SC_localization_UA/releases)
 [![Crowdin](https://badges.crowdin.net/star-citizen-localization-ua/localized.svg)](https://shorturl.at/dopMW)
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Fusf.42web.io%2F&down_message=4.0&style=flat&label=SC&labelColor=blue&color=blue)](https://robertsspaceindustries.com/spectrum/community/SC/forum/50172/thread/localization-ukrainian/404478)
 [![Автооновлення](https://img.shields.io/github/last-commit/Vova-Bob/SC_localization_UA?display_timestamp=author&style=plastic&logo=convertio&logoColor=%2393FF9E&label=%D0%90%D0%B2%D1%82%D0%BE%D0%BE%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%BD%D1%8F&cacheSeconds=300)](https://github.com/Vova-Bob/SC_localization_UA/commit/main)
