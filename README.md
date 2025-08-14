@@ -2,11 +2,9 @@
 [![GitHub Release](https://img.shields.io/github/v/release/Vova-Bob/SC_localization_UA?display_name=release&label=LIVE)](https://github.com/Vova-Bob/SC_localization_UA/releases/latest)
 [![GitHub Pre-Release](https://img.shields.io/github/v/release/Vova-Bob/SC_localization_UA?include_prereleases&display_name=tag&label=PTU)](https://github.com/Vova-Bob/SC_localization_UA/releases)
 [![Crowdin](https://badges.crowdin.net/star-citizen-localization-ua/localized.svg)](https://shorturl.at/dopMW)
-[![Website](https://img.shields.io/website?url=https%3A%2F%2Fusf.42web.io%2F&down_message=4.0&style=flat&label=SC&labelColor=blue&color=blue)](https://robertsspaceindustries.com/spectrum/community/SC/forum/50172/thread/localization-ukrainian/404478)
 [![Автооновлення](https://img.shields.io/github/last-commit/Vova-Bob/SC_localization_UA?display_timestamp=author&style=plastic&logo=convertio&logoColor=%2393FF9E&label=%D0%90%D0%B2%D1%82%D0%BE%D0%BE%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%BD%D1%8F&cacheSeconds=300)](https://github.com/Vova-Bob/SC_localization_UA/commit/main)
 [![Visitors](https://api.visitorbadge.io/api/combined?path=Vova-Bob%2FSC_localization_UA&countColor=%23697689&style=plastic&labelStyle=lower)](https://visitorbadge.io/status?path=Vova-Bob%2FSC_localization_UA)
 [![License](https://img.shields.io/static/v1?label=license&message=CC-BY-NC-SA-4.0&color=green)](https://github.com/Vova-Bob/SC_localization_UA/blob/main/LICENSE)
-[![Website](https://img.shields.io/website?url=https%3A%2F%2Fusf.42web.io%2F&down_message=SITE&style=flat&label=USF&labelColor=blue&color=yellow)](https://usf.42web.io/)
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Fusf.42web.io%2F&down_message=SITE&style=flat&label=SCLOC&labelColor=blue&color=yellow)](https://scloc.pp.ua/)
 
 [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
@@ -23,9 +21,8 @@
 [cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
 [cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
 
-![SClocApp](https://github.com/Vova-Bob/SCLoc_App/blob/main/img/sclocua.jpg)
+![SClocApp](https://github.com/Vova-Bob/SCLoc_App/blob/main/img/sclocuajpg)
 
-Підтримка локалізації гри зроблена учасниками [UKRAINIAN SPACE FLEET](https://robertsspaceindustries.com/orgs/UKR)
 
 Повідомити про помилку в перекладі або приєднатися до проєкту >>> [![bug-report](https://img.shields.io/badge/bug-report-blue?style=for-the-badge)](https://shorturl.at/dkwN7)
 
@@ -63,10 +60,6 @@ g_languageAudio=english
  
 [![Остання версія випуску](https://img.shields.io/github/release/Vova-Bob/SCLoc_App?include_prereleases&sort=date&label=Остання%20версія)](https://github.com/Vova-Bob/SCLoc_App/releases/latest)
 
-![SClocApp](https://github.com/Vova-Bob/SCLoc_App/blob/main/img/8.png)
+![SClocApp](https://github.com/Vova-Bob/SCLoc_App/blob/main/img/8png)
 
-Дякуємо всім, хто взяв участь у перекладі!:
-
-[![Static Badge](https://img.shields.io/badge/UKRAINIAN%20SPACE%20FLEET-%20?style=plastic&label=CORP&labelColor=%23196ea7&color=%23fbe21b)](https://robertsspaceindustries.com/orgs/UKR)
-[![Static Badge](https://img.shields.io/badge/FREE%20SPACE%20PROJECT-%20?style=plastic&label=CORP&labelColor=%23196ea7&color=%23fbe21b)](https://robertsspaceindustries.com/orgs/FSPROJECT)
-
+Дякуємо всім, хто взяв участь у перекладі!
