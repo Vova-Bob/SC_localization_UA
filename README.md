@@ -21,7 +21,7 @@
 [cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
 [cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
 
-![SClocApp](https://github.com/Vova-Bob/SCLoc_App/blob/main/img/sclocuajpg)
+![SClocApp](https://github.com/Vova-Bob/SCLoc_App/blob/main/img/sclocua.jpg)
 
 
 Повідомити про помилку в перекладі або приєднатися до проєкту >>> [![bug-report](https://img.shields.io/badge/bug-report-blue?style=for-the-badge)](https://shorturl.at/dkwN7)
@@ -60,6 +60,6 @@ g_languageAudio=english
  
 [![Остання версія випуску](https://img.shields.io/github/release/Vova-Bob/SCLoc_App?include_prereleases&sort=date&label=Остання%20версія)](https://github.com/Vova-Bob/SCLoc_App/releases/latest)
 
-![SClocApp](https://github.com/Vova-Bob/SCLoc_App/blob/main/img/8png)
+![SClocApp](https://github.com/Vova-Bob/SCLoc_App/blob/main/img/8.png)
 
 Дякуємо всім, хто взяв участь у перекладі!
