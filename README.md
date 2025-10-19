@@ -1,4 +1,4 @@
-# Українська локалізація гри Star Citizen
+# Українська локалізація гри [Star Citizen](https://www.robertsspaceindustries.com/enlist?referral=STAR-R7Z2-XCFR)
 [![GitHub Release](https://img.shields.io/github/v/release/Vova-Bob/SC_localization_UA?display_name=release&label=LIVE)](https://github.com/Vova-Bob/SC_localization_UA/releases/latest)
 [![GitHub Pre-Release](https://img.shields.io/github/v/release/Vova-Bob/SC_localization_UA?include_prereleases&display_name=tag&label=PTU)](https://github.com/Vova-Bob/SC_localization_UA/releases)
 [![Crowdin](https://badges.crowdin.net/star-citizen-localization-ua/localized.svg)](https://shorturl.at/dopMW)
@@ -12,20 +12,26 @@
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
 [![bug-report](https://img.shields.io/badge/bug-report-blue?style=for-the-badge)](https://shorturl.at/dkwN7)
 
-**Підтримка проекту локалізації Star Citizen — кожна чашка кави наближає нас до завершення перекладу!**
-
-[![Website](https://img.shields.io/website?url=https%3A%2F%2Fsend.monobank.ua%2Fjar%2F44HXkQkorg&up_message=%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82&style=for-the-badge&label=%D0%9F%D1%96%D0%B4%D1%82%D1%80%D0%B8%D0%BC%D0%B0%D1%82%D0%B8)
-](https://send.monobank.ua/jar/44HXkQkorg) 
-
 [cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
 [cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
 [cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
 
+Моя рефералка **[STAR-R7Z2-XCFR](https://www.robertsspaceindustries.com/enlist?referral=STAR-R7Z2-XCFR)** зареєструйся та отримай бонуси у грі
+
+---
+
+**Підтримка проекту локалізації [Star Citizen](https://www.robertsspaceindustries.com/enlist?referral=STAR-R7Z2-XCFR) — кожна чашка кави наближає нас до завершення перекладу!**
+
+[![Website](https://img.shields.io/website?url=https%3A%2F%2Fsend.monobank.ua%2Fjar%2F44HXkQkorg&up_message=%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82&style=for-the-badge&label=%D0%9F%D1%96%D0%B4%D1%82%D1%80%D0%B8%D0%BC%D0%B0%D1%82%D0%B8)
+](https://send.monobank.ua/jar/44HXkQkorg) 
+
+---
+
 ![SClocApp](https://github.com/Vova-Bob/SCLoc_App/blob/main/img/sclocua.jpg)
 
-
-Повідомити про помилку в перекладі або приєднатися до проєкту >>> [![bug-report](https://img.shields.io/badge/bug-report-blue?style=for-the-badge)](https://shorturl.at/dkwN7)
-
+---
+Повідомити про помилку в перекладі>>> [![bug-report](https://img.shields.io/badge/bug-report-blue?style=for-the-badge)](https://shorturl.at/dkwN7)
+---
 ## Встановлення
 
 ### Ручний спосіб. Актуальні стабільні збірки (рекомендується для LIVE збірки)
@@ -50,11 +56,11 @@ g_languageAudio=english
 > ⚠️ **Важливо**
 >
 > Переконайтеся, що ваш файл `user.cfg` має кодування UTF-8 (не, наприклад, UTF-8 with BOM).
-
+---
 Спосіб №2
 1. Завантажте архів перекладу з [релізів](https://github.com/Vova-Bob/SC_localization_UA/releases/latest)
 2. Розпакуйте архів до теки `[StarCitizen\LIVE]`
-
+---
 ### Автоматично. Містить найновіші правки пререлізів (рекомендується для PTU та EPTU збірок)
 через додаток - [SCLocalizationUA](https://github.com/Vova-Bob/SCLoc_App)
  
@@ -62,4 +68,23 @@ g_languageAudio=english
 
 ![SClocApp](https://github.com/Vova-Bob/SCLoc_App/blob/main/img/8.png)
 
-Дякуємо всім, хто взяв участь у перекладі!
+---
+
+**Підтримка проекту локалізації [Star Citizen](https://www.robertsspaceindustries.com/enlist?referral=STAR-R7Z2-XCFR) — кожна чашка кави наближає нас до завершення перекладу!**
+
+[![Website](https://img.shields.io/website?url=https%3A%2F%2Fsend.monobank.ua%2Fjar%2F44HXkQkorg&up_message=%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82&style=for-the-badge&label=%D0%9F%D1%96%D0%B4%D1%82%D1%80%D0%B8%D0%BC%D0%B0%D1%82%D0%B8)
+](https://send.monobank.ua/jar/44HXkQkorg) 
+
+---
+
+## 💙💛 Подяка
+
+Щиро дякуємо всім, хто підтримує українську локалізацію **[Star Citizen](https://www.robertsspaceindustries.com/enlist?referral=STAR-R7Z2-XCFR)**!  
+Ваша допомога дозволяє нам продовжувати переклад, вдосконалювати якість локалізації та розвивати проєкт.  
+Особлива подяка **[MANDAL0REC](https://robertsspaceindustries.com/en/citizens/MANDAL0REC)**, **[KrastyUKR](https://robertsspaceindustries.com/citizens/KrastyUKR)**, **[MariNeros](https://robertsspaceindustries.com/citizens/MariNeros)** — за вашу [підтримку](https://send.monobank.ua/jar/44HXkQkorg) у розвитку проєкту!  
+Також дякуємо всім, хто допомагає знаходити й виправляти помилки — ваш внесок робить переклад точнішим і якіснішим!
+
+---
+
+
+
