@@ -81,7 +81,7 @@ g_languageAudio=english
 
 Щиро дякуємо всім, хто підтримує українську локалізацію **[Star Citizen](https://www.robertsspaceindustries.com/enlist?referral=STAR-R7Z2-XCFR)**!  
 Ваша допомога дозволяє нам продовжувати переклад, вдосконалювати якість локалізації та розвивати проєкт.  
-Особлива подяка **[MANDAL0REC](https://robertsspaceindustries.com/en/citizens/MANDAL0REC)**, **[KrastyUKR](https://robertsspaceindustries.com/citizens/KrastyUKR)**, **[MariNeros](https://robertsspaceindustries.com/citizens/MariNeros)** — за вашу [підтримку](https://send.monobank.ua/jar/44HXkQkorg) у розвитку проєкту!  
+Особлива подяка **[MANDAL0REC](https://robertsspaceindustries.com/en/citizens/MANDAL0REC)**, **[KrastyUKR](https://robertsspaceindustries.com/citizens/KrastyUKR)**, **[MariNeros](https://robertsspaceindustries.com/citizens/MariNeros)**, **[BaHaH](https://robertsspaceindustries.com/en/citizens/BA-4303-UA)**— за вашу [підтримку](https://send.monobank.ua/jar/44HXkQkorg) у розвитку проєкту!  
 Також дякуємо всім, хто допомагає знаходити й виправляти помилки — ваш внесок робить переклад точнішим і якіснішим!
 
 ---
