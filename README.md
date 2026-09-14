@@ -62,11 +62,40 @@ g_languageAudio=english
 2. Розпакуйте архів до теки `[StarCitizen\LIVE]`
 ---
 ### Автоматично. Містить найновіші правки пререлізів (рекомендується для PTU та EPTU збірок)
-через додаток - [SCLocalizationUA](https://github.com/Vova-Bob/SCLoc_App)
+через додаток - [SCLOC-Verse](https://github.com/Vova-Bob/SCLOC-Verse)
  
-[![Остання версія випуску](https://img.shields.io/github/release/Vova-Bob/SCLoc_App?include_prereleases&sort=date&label=Остання%20версія)](https://github.com/Vova-Bob/SCLoc_App/releases/latest)
+[![Latest Release](https://img.shields.io/github/v/release/Vova-Bob/SCLOC-Verse?style=for-the-badge&label=Latest%20Release)](https://github.com/Vova-Bob/SCLOC-Verse/releases/latest)
 
-![SClocApp](https://github.com/Vova-Bob/SCLoc_App/blob/main/img/8.png)
+# 🇺🇦 SCLOC-Verse
+
+<p align="center">
+  <img src="https://github.com/Vova-Bob/SCLOC-Verse/blob/release-hub/docs/images/banner.png" alt="SCLOC-Verse">
+</p>
+
+<p align="center">
+
+[![Latest Release](https://img.shields.io/github/v/release/Vova-Bob/SCLOC-Verse?style=for-the-badge&label=Latest%20Release)](https://github.com/Vova-Bob/SCLOC-Verse/releases/latest)
+[![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](LICENSE.txt)
+[![Crowdin](https://badges.crowdin.net/star-citizen-localization-ua/localized.svg)](https://shorturl.at/dopMW)
+[![VirusTotal](https://img.shields.io/badge/VirusTotal-Verified-blue?style=for-the-badge)](https://www.virustotal.com/gui/file-analysis/YjNhMTQ0N2VjZmYyYzJlNzc2MWM3ZDQ1MWJjOWQ2ZWE6MTc4Mjg2MjE3NA==)
+[![Discord](https://img.shields.io/discord/138678973436526592?style=for-the-badge&label=Discord)](https://discord.gg/VdQBscHRCB)
+
+</p>
+
+---
+
+# 🌐 Сайт проєкту
+
+**https://scloc.pp.ua**
+
+---
+
+# 🌌 Все необхідне українському пілоту Star Citizen
+
+**SCLOC-Verse** — офіційний застосунок української спільноти **Star Citizen**, який об'єднує в одному місці українську локалізацію, голосового асистента **Л.І.А.**, Executive Hangar Timer, автоматичні оновлення та майбутні онлайн-сервіси спільноти.
+
+---
+
 
 ---
 
